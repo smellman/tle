@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.required_ruby_version = '>= 1.8.1'
 
-  spec.files = FileList[
+  spec.files = [
     'README.rdoc',
     'Rakefile',
     'lib/tle.rb',
